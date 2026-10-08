@@ -9,3 +9,6 @@ Evaluación T2 - practica de control de versiones con git y github.
 
 ## Control de cambios
 Se realizó cambios en archivos pom.xml y creación de observaciones.txt
+
+## Gestión de ramas
+Se utilizo la rama feature-tacora para crear la clase ControlVersion_Tacora.java
